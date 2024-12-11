@@ -1,6 +1,5 @@
 
-readme_content = """
-# Pioneering Indoor Localisation: A Wi-Fi, Cellular, and MEMS Sensor Fusion Approach
+# Indoor Localisation: A Wi-Fi, Cellular, and MEMS Sensor Fusion Approach
 
 In today’s fast-paced world, indoor navigation is becoming increasingly vital. From navigating complex hospital layouts to finding your way in sprawling malls or office buildings, the need for accurate indoor positioning systems (IPS) is more pressing than ever. My research focuses on developing a low-cost, accurate IPS that leverages existing infrastructure and ubiquitous technologies—Wi-Fi, cellular networks, and Micro Electro-Mechanical Systems (MEMS) sensors—to achieve superior results.
 
@@ -40,5 +39,4 @@ This work underscores the potential of leveraging existing technologies for cost
 Indoor positioning systems are crucial in today’s interconnected world, impacting industries like healthcare, retail, and emergency response. By employing innovative techniques and leveraging common smartphone technologies, this research contributes to making accurate indoor localisation more accessible and scalable.
 
 This project reflects my passion for solving real-world challenges with practical, innovative solutions. I look forward to further opportunities to refine and expand upon this work, bridging the gap between research and impactful applications.
-"""
 
